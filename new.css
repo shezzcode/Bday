@@ -1,0 +1,32 @@
+body {
+    font-family: cursive;
+    background: #17153B;
+    color: white;
+    display: flex;
+    text-align: center;
+    margin-top: 7rem;
+}
+
+.text-box {
+    width: 75%;
+    height: 27.5rem;
+    background-color: #17153B;
+    margin: 0 auto;
+    
+}
+
+.animation-container {
+    width:100rem;
+    height: 30rem;
+}
+
+.sixth {
+      font-size: 1.8rem;
+      color: #C8ACD6;
+}
+
+.eighth {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 30px;
+}
