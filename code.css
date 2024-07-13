@@ -94,14 +94,14 @@ body {
 .text1 {
     position: absolute;
     color: white;
-    font-family: cursive;
+    font-family: sans-serif;
     top: -50%;
 }
 
 .text {
     text-align: center;
     font-size: 13px ;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-top: 20px;
     font-weight: bold;
     color: #2E236C;
